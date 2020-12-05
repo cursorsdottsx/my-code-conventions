@@ -46,7 +46,7 @@ It is easier to read the values this way.
 
 It will be easier to read and understand as opposed to no defined scheme.
 
-### 2. Classes and files containt classes should be in PascalCase.
+### 2. Classes and files containing classes should be in PascalCase.
 
 This is just the norm for programming, mainly.
 

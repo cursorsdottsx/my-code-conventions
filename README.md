@@ -1,5 +1,31 @@
 # Code conventions I practice
 
+## Naming
+
+### 1. Use consistent naming schemes.
+
+It will be easier to read and understand as opposed to no defined scheme.
+
+### 2. Classes and files containt classes should be in PascalCase.
+
+This is just the norm for programming, mainly.
+
+### 3. Variables should be in camelCase.
+
+This is just the norm for programming, mainly.
+
+### 4. Flags and enums should be in MACRO_CASE.
+
+Macro case ensures that you know the difference between flags/enums and regular constants/variables.
+
+### 5. Types, and enums should be in PascalCase
+
+Types and enums are significant and act like classes in some cases. Therefore, they should be named the same way as classes.
+
+### 6. Prefix interfaces with `I`.
+
+This is just the norm for programming, mainly.
+
 ## Refactoring
 
 ### 1. Refactoring old code to the newest specification.

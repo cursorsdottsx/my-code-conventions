@@ -18,7 +18,7 @@ Calculations and retrieval/storage should be separated by empty new lines. Do no
 
 Function declarations at the bottom do not clump up your code and is easier to manage and debug.
 
-### 5. Refactor similar functions, objects, and constants into one file and import them.
+### 5. Refactor similar global functions, objects, and constants into one file and import them.
 
 This is to save space and make your code easily manageable and easy to understand.
 

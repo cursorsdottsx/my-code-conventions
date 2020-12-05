@@ -1,5 +1,31 @@
 # Code conventions I practice
 
+## Formatting
+
+### 1. End simple statements with semicolons.
+
+Always end simple statements with semicolons for readability and so that minifiers can actually minify your code.
+
+### 2. Never end complex statements with semicolons.
+
+This includes: function declarations, if statements, switch case, and for loops.
+
+### 3. Use 4 spaces for a tab.
+
+This is debatable, but is the norm.
+
+### 4. If a line is longer than 80 characters, break it up.
+
+This is for readability. The best place to break up a line is either an operator or a comma.
+
+### 5. File names should not have spaces nor hypens.
+
+This may cause problems with dynamic imports and it doesn't look as cool. 😎
+
+### 6. Use spaces to separate the key from the colon in objects.
+
+It is easier to read the values this way.
+
 ## Naming
 
 ### 1. Use consistent naming schemes.

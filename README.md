@@ -1,5 +1,19 @@
 # Code conventions I practice
 
+## Documenting
+
+### 1. Document all methods and properties.
+
+It will be easier to use code by other people.
+
+### 2. The description should be short and sweet.
+
+The description of the methods and properties should explain the method or property in one sentence.
+
+### 3. Enforce types (if you are using TypeScript) if it is not.
+
+The compiler can be more helpful if you do this.
+
 ## Formatting
 
 ### 1. End simple statements with semicolons.

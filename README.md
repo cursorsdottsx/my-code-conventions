@@ -14,7 +14,7 @@ If you have a class that has methods (excluding the constructor), move the class
 
 Calculations and retrieval/storage should be separated by empty new lines. Do not clump things together because it would be hard to understand.
 
-### 4. Function declarations using the `function` keyword should go at the bottom.
+### 4. Function declarations using the keyword should go at the bottom.
 
 Function declarations at the bottom do not clump up your code and is easier to manage and debug.
 

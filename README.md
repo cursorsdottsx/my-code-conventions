@@ -1,4 +1,4 @@
-# Code conventions I practice
+# Code conventions I practice (when in a team)
 
 ## Documenting
 
